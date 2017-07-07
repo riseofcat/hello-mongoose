@@ -160,5 +160,5 @@ var html2 = '</code></pre> <br\> <i>';
 var html3 = ' documents. </i> <br\> <br\>';
 var html4 = '<h2> Queried (name.last = "Doe", age >64) Documents in MonogoDB database </h2> <pre><code> ';
 var html5 = '</code></pre> <br\> <i>';
-var html6 = 'uristring = ' + uristring + ' documents. </i> <br\> <br\> \
-<br\> <br\> <center><i> Demo code available at <a href="http://github.com/mongolab/hello-mongoose">github.com</a> </i></center>';
+var html6 = ' documents. </i> <br\> <br\> \
+<br\> <br\> <center><i> Demo code available at <a href="http://github.com/mongolab/hello-mongoose">github.com</a> </i></center>' + 'uristring = ' + uristring;
